@@ -4,8 +4,7 @@ Team Agreement
 1. Methods of Communication
 Primary Platforms:
 - Discord: For meetings, daily communication, file sharing, and real-time discussions.
-- Email: For formal updates, task summaries, and notifications.
-Backup Communication: Phone calls or text messages for urgent matters if a member is unreachable on Discord.
+- Messages: Text messages for urgent matters if a member is unreachable on Discord.
 2. Communication Response Times
 Discord: Members are expected to respond to messages within 4 hours during agreed work hours.
 Email: Respond within 24 hours for non-urgent matters.

@@ -46,12 +46,14 @@ Absent members are responsible for:
 The team will ensure absentees have clear instructions on their next steps.
 9. Handling Non-Contributing Members
 If a member consistently fails to contribute:
-1. Discuss the issue with them privately on Discord.
-2. If no improvement occurs, escalate the issue to the instructor.
-3. Document all instances and attempts to resolve the issue.
+- Discuss the issue with them privately on Discord.
+- If no improvement occurs, escalate the issue to the instructor.
+- Document all instances and attempts to resolve the issue.
 10. Submitting Assignments
 Workflow:
 - The entire team reviews the deliverables 48 hours before the deadline in the #assignment-review channel.
 - The designated submitter (rotating role) uploads the final version.
 Backup Plan: Another team member will step in if the submitter is unavailable.
-![image](https://github.com/user-attachments/assets/4c7e4eaa-251d-4061-9d88-4b8a1510a91e)
+
+
+

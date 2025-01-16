@@ -12,7 +12,7 @@ Email: Respond within 24 hours for non-urgent matters.
 Urgent Issues: Use phone/text and expect a response within 1 hour during work hours.
 3. Meeting Attendance
 Platform: Discord voice/video channels.
-Schedule: Weekly meetings every Tuesday at 7:00 PM (adjustable based on team availability).
+Schedule: Weekly meetings every Thursday at 3:30 PM (adjustable based on team availability).
 Attendance:
 - All members are required to attend. Missing more than 2 meetings without notice is unacceptable.
 - Members must inform the team 24 hours in advance if they cannot attend.
